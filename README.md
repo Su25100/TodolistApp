@@ -18,8 +18,8 @@ A simple To-Do List API built using Node.js, Express, Sequelize, and MySQL for m
 1. Clone the Repository:
 
 ```bash
-  git clone https://github.com/Su25100/Todolist_app_crud.git
-  cd Todolist_app_crud
+  git clone https://github.com/Su25100/Todolist_app.git
+  cd Todolist_app
 ```
 2.Install dependencies:
   ```bash
@@ -50,7 +50,6 @@ A simple To-Do List API built using Node.js, Express, Sequelize, and MySQL for m
 
  
 
-
 ## Usage/Examples
 You can use tools like Postman to test the API endpoints.
 
@@ -68,3 +67,4 @@ d. Use DELETE /tasks/:id to delete a task by ID.
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+

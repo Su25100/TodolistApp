@@ -18,8 +18,8 @@ A simple To-Do List API built using Node.js, Express, Sequelize, and MySQL for m
 1. Clone the Repository:
 
 ```bash
-  git clone https://github.com/Su25100/Todolist_app.git
-  cd Todolist_app
+  git clone https://github.com/Su25100/TodolistApp.git
+  cd TodolistApp
 ```
 2.Install dependencies:
   ```bash
